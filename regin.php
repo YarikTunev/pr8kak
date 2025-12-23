@@ -122,7 +122,7 @@
 					var _login = document.getElementsByName("_login")[0].value;
 					var _password = document.getElementsByName("_password")[0].value;
 					var _passwordCopy = document.getElementsByName("_passwordCopy")[0].value;
-					
+					// 0llo,l.
 					if(_password != "") {
 						if(_login != "") {
 							if(_passwordCopy != "") {
